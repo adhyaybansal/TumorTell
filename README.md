@@ -1,1 +1,2 @@
-# TumorTell
+🧠 TumorTell – Brain Tumor Detection, Saliency Mapping & LLM-Generated Reports
+TumorTell is a powerful deep learning-based web application built using Streamlit that enables automated brain tumor detection from MRI scans. It not only classifies the type of tumor, but also highlights suspicious regions via saliency maps, and generates natural language medical reports tailored for doctors or patients using advanced Large Language Models (LLMs) like Gemini and LLaMA.
