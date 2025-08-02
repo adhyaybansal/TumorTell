@@ -73,7 +73,7 @@ Educational tool for medical students to interpret MRI + AI results
 This app is not a replacement for professional medical advice. It is intended for educational and research purposes only.
 
 
-
+------------------------------------------------------------------------------------------------------------------------
 ScreenShots - 
 
 ![a6d58c0d0e534c7eb81404004433c274](https://github.com/user-attachments/assets/6d323669-378d-48ad-b8fd-f455ab31b6ab)
